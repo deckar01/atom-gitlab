@@ -7,7 +7,7 @@
         'command': 'github:toggle-git-tab'
       }
       {
-        'label': 'Toggle GitHub Tab'
+        'label': 'Toggle GitLab Tab'
         'command': 'github:toggle-github-tab'
       }
     ]
@@ -16,14 +16,14 @@
     'label': 'Packages'
     'submenu': [
       {
-        'label': 'GitHub',
+        'label': 'GitLab',
         'submenu': [
           {
             'label': 'Toggle Git Tab'
             'command': 'github:toggle-git-tab'
           }
           {
-            'label': 'Toggle GitHub Tab'
+            'label': 'Toggle GitLab Tab'
             'command': 'github:toggle-github-tab'
           }
         ]
