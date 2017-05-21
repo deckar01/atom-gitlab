@@ -32,6 +32,12 @@
   }
 ]
 'context-menu':
+  '.github-GithubTabController': [
+    {
+      'label': 'Logout of GitLab'
+      'command': 'github:logout-of-github'
+    }
+  ]
   '.github-FilePatchListView-item': [
     {
       'label': 'Open File'
